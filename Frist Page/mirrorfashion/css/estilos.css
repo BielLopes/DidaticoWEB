@@ -242,7 +242,7 @@ background-color: #DCDCDC;
   transform:  0.7s;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 939px) {
   .container {
     width: 96%;
   }
